@@ -1,6 +1,6 @@
-const restaurantList = [
+const restaurentList = [
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "279741",
@@ -20,7 +20,7 @@ const restaurantList = [
         slaString: "44 MINS",
         lastMileTravel: 3.5,
         slugs: {
-          restaurant: "easy-bites-marathahalli-marathahalli",
+          restaurent: "easy-bites-marathahalli-marathahalli",
           city: "bangalore",
         },
         cityState: "1",
@@ -87,7 +87,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "279741",
+          restaurentId: "279741",
           deliveryTime: 44,
           minDeliveryTime: 44,
           maxDeliveryTime: 44,
@@ -107,7 +107,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "221738",
@@ -134,7 +134,7 @@ const restaurantList = [
         slaString: "53 MINS",
         lastMileTravel: 2.4000000953674316,
         slugs: {
-          restaurant: "meghana-foods-mahadevpura-mahadevpura",
+          restaurent: "meghana-foods-mahadevpura-mahadevpura",
           city: "bangalore",
         },
         cityState: "1",
@@ -189,7 +189,7 @@ const restaurantList = [
         lastMileTravelString: "2.4 kms",
         hasSurge: false,
         sla: {
-          restaurantId: "221738",
+          restaurentId: "221738",
           deliveryTime: 53,
           minDeliveryTime: 53,
           maxDeliveryTime: 53,
@@ -209,7 +209,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "280569",
@@ -229,7 +229,7 @@ const restaurantList = [
         slaString: "47 MINS",
         lastMileTravel: 3.5,
         slugs: {
-          restaurant: "the-empire-juice-shop-marathahalli-marathahalli",
+          restaurent: "the-empire-juice-shop-marathahalli-marathahalli",
           city: "bangalore",
         },
         cityState: "1",
@@ -295,7 +295,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "280569",
+          restaurentId: "280569",
           deliveryTime: 47,
           minDeliveryTime: 47,
           maxDeliveryTime: 47,
@@ -315,11 +315,11 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "690129",
-        name: "Kritunga Restaurant",
+        name: "Kritunga restaurent",
         uuid: "5bc1017a-12af-44d0-946f-3a0d9a6d6137",
         city: "1",
         area: "Whitefield",
@@ -335,7 +335,7 @@ const restaurantList = [
         slaString: "28 MINS",
         lastMileTravel: 4,
         slugs: {
-          restaurant: "kritunga-restaurant-whitefield-whitefield-2",
+          restaurent: "kritunga-restaurent-whitefield-whitefield-2",
           city: "bangalore",
         },
         cityState: "1",
@@ -391,7 +391,7 @@ const restaurantList = [
         lastMileTravelString: "4 kms",
         hasSurge: false,
         sla: {
-          restaurantId: "690129",
+          restaurentId: "690129",
           deliveryTime: 28,
           minDeliveryTime: 28,
           maxDeliveryTime: 28,
@@ -411,7 +411,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "420659",
@@ -431,7 +431,7 @@ const restaurantList = [
         slaString: "47 MINS",
         lastMileTravel: 5,
         slugs: {
-          restaurant: "sri-lakshmi-biryani-kadubeesanahalli-kadubeesanahalli",
+          restaurent: "sri-lakshmi-biryani-kadubeesanahalli-kadubeesanahalli",
           city: "bangalore",
         },
         cityState: "1",
@@ -493,7 +493,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "420659",
+          restaurentId: "420659",
           deliveryTime: 47,
           minDeliveryTime: 47,
           maxDeliveryTime: 47,
@@ -513,11 +513,11 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "113231",
-        name: "NISO Chinese Restaurant",
+        name: "NISO Chinese restaurent",
         uuid: "8a53ddec-e0cc-417b-adad-dd81d9bacb65",
         city: "1",
         area: "KR Puram",
@@ -533,7 +533,7 @@ const restaurantList = [
         slaString: "38 MINS",
         lastMileTravel: 3.5,
         slugs: {
-          restaurant: "niso-chinese-restaurant-test-prod-area",
+          restaurent: "niso-chinese-restaurent-test-prod-area",
           city: "bangalore",
         },
         cityState: "1",
@@ -600,7 +600,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "113231",
+          restaurentId: "113231",
           deliveryTime: 38,
           minDeliveryTime: 38,
           maxDeliveryTime: 38,
@@ -620,7 +620,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "262167",
@@ -640,12 +640,12 @@ const restaurantList = [
         slaString: "47 MINS",
         lastMileTravel: 3.5,
         slugs: {
-          restaurant: "hotel-empire-marathahalli-marathahalli",
+          restaurent: "hotel-empire-marathahalli-marathahalli",
           city: "bangalore",
         },
         cityState: "1",
         address:
-          "EMPIRE RESTAURANT ASK TOWERS,NO 7/3 OF THOOBARAHALLI VILLAGE,VARTHUR VILLAGE,VARTHOOR HOBLI 560037",
+          "EMPIRE restaurent ASK TOWERS,NO 7/3 OF THOOBARAHALLI VILLAGE,VARTHUR VILLAGE,VARTHOOR HOBLI 560037",
         locality: "",
         parentId: 475,
         unserviceable: false,
@@ -702,7 +702,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "262167",
+          restaurentId: "262167",
           deliveryTime: 47,
           minDeliveryTime: 47,
           maxDeliveryTime: 47,
@@ -722,11 +722,11 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "78138",
-        name: "Imperio Restaurant",
+        name: "Imperio restaurent",
         uuid: "7251486d-55a6-4ca0-ac99-e1e6cd4a7834",
         city: "1",
         area: "Marathahalli",
@@ -755,7 +755,7 @@ const restaurantList = [
         slaString: "58 MINS",
         lastMileTravel: 3,
         slugs: {
-          restaurant: "imperio-restaurant-whitefield-whitefield-3",
+          restaurent: "imperio-restaurent-whitefield-whitefield-3",
           city: "bangalore",
         },
         cityState: "1",
@@ -817,7 +817,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "78138",
+          restaurentId: "78138",
           deliveryTime: 58,
           minDeliveryTime: 58,
           maxDeliveryTime: 58,
@@ -837,7 +837,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "222837",
@@ -857,7 +857,7 @@ const restaurantList = [
         slaString: "61 MINS",
         lastMileTravel: 2.5999999046325684,
         slugs: {
-          restaurant: "potful-whitefield-whitefield",
+          restaurent: "potful-whitefield-whitefield",
           city: "bangalore",
         },
         cityState: "1",
@@ -924,7 +924,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "222837",
+          restaurentId: "222837",
           deliveryTime: 61,
           minDeliveryTime: 61,
           maxDeliveryTime: 61,
@@ -944,7 +944,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "210119",
@@ -964,12 +964,12 @@ const restaurantList = [
         slaString: "38 MINS",
         lastMileTravel: 5,
         slugs: {
-          restaurant: "sri-jayadurga-biryani-marathahalli-marathahalli",
+          restaurent: "sri-jayadurga-biryani-marathahalli-marathahalli",
           city: "bangalore",
         },
         cityState: "1",
         address:
-          "Sri Jaya Durga Restaurant, OPP AMRUTHA BAKERY, LAKSHMI NARAYANA TEMPLE ROAD, MUNNEKOLALA, MARATHAHALLI, BANGALORE",
+          "Sri Jaya Durga restaurent, OPP AMRUTHA BAKERY, LAKSHMI NARAYANA TEMPLE ROAD, MUNNEKOLALA, MARATHAHALLI, BANGALORE",
         locality: "Munnekollal",
         parentId: 14529,
         unserviceable: false,
@@ -1026,7 +1026,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "210119",
+          restaurentId: "210119",
           deliveryTime: 38,
           minDeliveryTime: 38,
           maxDeliveryTime: 38,
@@ -1046,7 +1046,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "424658",
@@ -1066,7 +1066,7 @@ const restaurantList = [
         slaString: "39 MINS",
         lastMileTravel: 2.700000047683716,
         slugs: {
-          restaurant: "asha-tiffins-marathahalli-marathahalli",
+          restaurent: "asha-tiffins-marathahalli-marathahalli",
           city: "bangalore",
         },
         cityState: "1",
@@ -1128,7 +1128,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "424658",
+          restaurentId: "424658",
           deliveryTime: 39,
           minDeliveryTime: 39,
           maxDeliveryTime: 39,
@@ -1148,7 +1148,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "453491",
@@ -1175,7 +1175,7 @@ const restaurantList = [
         slaString: "45 MINS",
         lastMileTravel: 4,
         slugs: {
-          restaurant: "sharief-bhai-ashwath-nagar-cross-road-marathahalli",
+          restaurent: "sharief-bhai-ashwath-nagar-cross-road-marathahalli",
           city: "bangalore",
         },
         cityState: "1",
@@ -1242,7 +1242,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "453491",
+          restaurentId: "453491",
           deliveryTime: 45,
           minDeliveryTime: 45,
           maxDeliveryTime: 45,
@@ -1262,7 +1262,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "636313",
@@ -1282,7 +1282,7 @@ const restaurantList = [
         slaString: "29 MINS",
         lastMileTravel: 1.7999999523162842,
         slugs: {
-          restaurant: "the-rameshwaram-café-whitefield-whitefield",
+          restaurent: "the-rameshwaram-café-whitefield-whitefield",
           city: "bangalore",
         },
         cityState: "1",
@@ -1338,7 +1338,7 @@ const restaurantList = [
         lastMileTravelString: "1.7 kms",
         hasSurge: false,
         sla: {
-          restaurantId: "636313",
+          restaurentId: "636313",
           deliveryTime: 29,
           minDeliveryTime: 29,
           maxDeliveryTime: 29,
@@ -1358,7 +1358,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "687845",
@@ -1386,7 +1386,7 @@ const restaurantList = [
         slaString: "33 MINS",
         lastMileTravel: 5.5,
         slugs: {
-          restaurant: "sri-udupi-food-hub-whitefield-whitefield-2",
+          restaurent: "sri-udupi-food-hub-whitefield-whitefield-2",
           city: "bangalore",
         },
         cityState: "1",
@@ -1453,7 +1453,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "687845",
+          restaurentId: "687845",
           deliveryTime: 33,
           minDeliveryTime: 33,
           maxDeliveryTime: 33,
@@ -1473,7 +1473,7 @@ const restaurantList = [
       subtype: "basic",
     },
     {
-      type: "restaurant",
+      type: "restaurent",
       data: {
         type: "F",
         id: "237231",
@@ -1493,7 +1493,7 @@ const restaurantList = [
         slaString: "48 MINS",
         lastMileTravel: 2.799999952316284,
         slugs: {
-          restaurant: "burger-king-forum-shantinikethan-mall-whitefield",
+          restaurent: "burger-king-forum-shantinikethan-mall-whitefield",
           city: "bangalore",
         },
         cityState: "1",
@@ -1555,7 +1555,7 @@ const restaurantList = [
           headerTypeV2: 0,
         },
         sla: {
-          restaurantId: "237231",
+          restaurentId: "237231",
           deliveryTime: 48,
           minDeliveryTime: 48,
           maxDeliveryTime: 48,
@@ -1576,4 +1576,4 @@ const restaurantList = [
     },
   ];
   
-  export default restaurantList;
+  export default restaurentList;
