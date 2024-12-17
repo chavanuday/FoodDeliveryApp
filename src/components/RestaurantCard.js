@@ -1,23 +1,21 @@
 import { CDN_URL } from "../utils/constants";
 
-const RestaurentCard = (props) => {
-  const { restaurentData } = props;
+const RestaurantCard = (props) => {
+  const { restaurantData } = props;
 
   const { 
     cloudinaryImageId, name, cuisines, avgRating, costForTwo, sla } =
-    restaurentData?.info;
-
-    console.log(`${CDN_URL}${cloudinaryImageId}`);
+    restaurantData?.info;
 
 
   return (
-    <div className="restaurent-card" style={{ backgroundColor: "#f0f0f0" }}>
+    <div className="restaurant-card" style={{ backgroundColor: "#f0f0f0" }}>
       <img
-        className="restaurent-logo"
+        className="restaurant-logo"
         src={CDN_URL + 
           cloudinaryImageId
           }
-        alt="restaurentLogo"
+        alt="restaurantLogo"
       />
    
 
@@ -30,4 +28,4 @@ const RestaurentCard = (props) => {
   );
 };
 
-export default RestaurentCard;
+export default RestaurantCard;
